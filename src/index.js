@@ -4,8 +4,6 @@ import PRODUCTS from './data';
 
 import './index.css';
 
-// import ProductRow from './ProductRow';
-// import ProductCategoryRow from './ProductCategoryRow';
 import FilterableProductTable from './FilterableProductTable';
 
 ReactDOM.render(
